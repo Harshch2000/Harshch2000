@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Harsh Chourasia, an enthusiastic Android developer
+- 👋 Hi, I’m Harsh Chourasia, an enthusiastic developer
 - 👀 I’m interested in developing software applications for smartphones and desktop.
-- 🌱 I’m currently revising Data structures, proficient in Java, c/c++
-- 💞️ I’m looking to collaborate on Android Apps made to help people.
+- 🌱 I’m proficient in Java, c/c++
+- 💻 I am currently working in Wipro Technologies as Windows Server Administrator
 - 📫 How to reach me by mailing at chourasiaharsh70@gmail.com 
 
 <!---
