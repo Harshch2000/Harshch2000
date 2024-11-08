@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Chourasia, an enthusiastic developer
 - 👀 I’m interested in developing software applications for smartphones and desktop.
 - 🌱 I’m proficient in Java, c/c++, JavaScript, HTML, CSS, React.js, Node.js, Spring framework
-- 💻 I am currently working in Wipro Technologies as Windows Server Administrator
+- 💻 I am currently working in Wipro Technologies as Developer.
 - 📫 You can reach me by mailing at chourasiaharsh70@gmail.com 
 
 <!---
